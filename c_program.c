@@ -7,7 +7,7 @@
 int main() {
     int i = 4;
     double d = 4.0;
-    char s[] = "HackerRank ";
+    char s[] = "Akshay";
 	  
    int j,p;
 double k,n;
